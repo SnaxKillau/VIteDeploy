@@ -1,6 +1,6 @@
 <template lang="">
   <div>
-    Deploy
+    Deploy Again
   </div>
 </template>
 <script>
